@@ -1,12 +1,5 @@
 ###  Olá sou Marco Antonio Leite - Benvido ao meu  repositorio !
 
-<!--
-**marcoleitecarmo/marcoleitecarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭  Atualmente estou me aprimorando nos estudos de python.
-- 🌱 Estou estudando Python nivel avançado, html, css, javascript  e banco de  dados.
               
 <div align="center">
   <a href="https://github.com/marcoleitecarmo">
