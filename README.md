@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭  Atualmente estou me aprimorando nos estudos de python.
-- 🌱 I’m currently learning  Python nivel avançado, html, css, javascript  e banco de  dados.
+- 🌱 Estou estudando Python nivel avançado, html, css, javascript  e banco de  dados.
               
 <div align="center">
   <a href="https://github.com/marcoleitecarmo">
