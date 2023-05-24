@@ -24,6 +24,7 @@
   <img align="center" alt="Marco-Java" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="Marco-MySQL" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Marco-SQLite" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg">
+    <img align="center" alt="Marco-R" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   
 
 
